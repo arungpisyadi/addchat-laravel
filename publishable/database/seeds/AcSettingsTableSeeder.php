@@ -69,7 +69,7 @@ class AcSettingsTableSeeder extends Seeder
                 array (
                     'id' => 8,
                     's_name' => 'site_name',
-                    's_value' => 'AddChat',
+                    's_value' => 'GirlsSecrets.com 女生秘物',
                     'dt_updated' => '2019-09-19 10:22:49',
                 ),
                 8 => 
@@ -97,14 +97,14 @@ class AcSettingsTableSeeder extends Seeder
                 array (
                     'id' => 12,
                     's_name' => 'footer_text',
-                    's_value' => 'AddChat | by Classiebit',
+                    's_value' => 'GirlsSecrets.com 女生秘物 | by GSTechTeam',
                     'dt_updated' => '2019-09-19 10:22:49',
                 ),
                 12 => 
                 array (
                     'id' => 13,
                     's_name' => 'footer_url',
-                    's_value' => 'https://classiebit.com/addchat-laravel-pro',
+                    's_value' => 'https:/www.girlssecrets.com',
                     'dt_updated' => '2019-09-19 10:22:49',
                 ),
             ));
